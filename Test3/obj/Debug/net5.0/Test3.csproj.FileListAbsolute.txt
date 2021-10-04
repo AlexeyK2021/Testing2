@@ -1,0 +1,16 @@
+D:\Prog\C#\TESTING\Testing2\Test3\obj\Debug\net5.0\Test3.csproj.AssemblyReference.cache
+D:\Prog\C#\TESTING\Testing2\Test3\obj\Debug\net5.0\Test3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog\C#\TESTING\Testing2\Test3\obj\Debug\net5.0\Test3.AssemblyInfoInputs.cache
+D:\Prog\C#\TESTING\Testing2\Test3\obj\Debug\net5.0\Test3.AssemblyInfo.cs
+D:\Prog\C#\TESTING\Testing2\Test3\obj\Debug\net5.0\Test3.csproj.CoreCompileInputs.cache
+D:\Prog\C#\TESTING\Testing2\Test3\bin\Debug\net5.0\Test3.exe
+D:\Prog\C#\TESTING\Testing2\Test3\bin\Debug\net5.0\Test3.deps.json
+D:\Prog\C#\TESTING\Testing2\Test3\bin\Debug\net5.0\Test3.runtimeconfig.json
+D:\Prog\C#\TESTING\Testing2\Test3\bin\Debug\net5.0\Test3.runtimeconfig.dev.json
+D:\Prog\C#\TESTING\Testing2\Test3\bin\Debug\net5.0\Test3.dll
+D:\Prog\C#\TESTING\Testing2\Test3\bin\Debug\net5.0\ref\Test3.dll
+D:\Prog\C#\TESTING\Testing2\Test3\bin\Debug\net5.0\Test3.pdb
+D:\Prog\C#\TESTING\Testing2\Test3\obj\Debug\net5.0\Test3.dll
+D:\Prog\C#\TESTING\Testing2\Test3\obj\Debug\net5.0\ref\Test3.dll
+D:\Prog\C#\TESTING\Testing2\Test3\obj\Debug\net5.0\Test3.pdb
+D:\Prog\C#\TESTING\Testing2\Test3\obj\Debug\net5.0\Test3.genruntimeconfig.cache
