@@ -1,0 +1,16 @@
+D:\Prog\C#\TESTING\Testing2\Test3_1\bin\Debug\net5.0\Test3_1.exe
+D:\Prog\C#\TESTING\Testing2\Test3_1\bin\Debug\net5.0\Test3_1.deps.json
+D:\Prog\C#\TESTING\Testing2\Test3_1\bin\Debug\net5.0\Test3_1.runtimeconfig.json
+D:\Prog\C#\TESTING\Testing2\Test3_1\bin\Debug\net5.0\Test3_1.runtimeconfig.dev.json
+D:\Prog\C#\TESTING\Testing2\Test3_1\bin\Debug\net5.0\Test3_1.dll
+D:\Prog\C#\TESTING\Testing2\Test3_1\bin\Debug\net5.0\ref\Test3_1.dll
+D:\Prog\C#\TESTING\Testing2\Test3_1\bin\Debug\net5.0\Test3_1.pdb
+D:\Prog\C#\TESTING\Testing2\Test3_1\obj\Debug\net5.0\Test3_1.csproj.AssemblyReference.cache
+D:\Prog\C#\TESTING\Testing2\Test3_1\obj\Debug\net5.0\Test3_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog\C#\TESTING\Testing2\Test3_1\obj\Debug\net5.0\Test3_1.AssemblyInfoInputs.cache
+D:\Prog\C#\TESTING\Testing2\Test3_1\obj\Debug\net5.0\Test3_1.AssemblyInfo.cs
+D:\Prog\C#\TESTING\Testing2\Test3_1\obj\Debug\net5.0\Test3_1.csproj.CoreCompileInputs.cache
+D:\Prog\C#\TESTING\Testing2\Test3_1\obj\Debug\net5.0\Test3_1.dll
+D:\Prog\C#\TESTING\Testing2\Test3_1\obj\Debug\net5.0\ref\Test3_1.dll
+D:\Prog\C#\TESTING\Testing2\Test3_1\obj\Debug\net5.0\Test3_1.pdb
+D:\Prog\C#\TESTING\Testing2\Test3_1\obj\Debug\net5.0\Test3_1.genruntimeconfig.cache
